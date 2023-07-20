@@ -22,4 +22,4 @@ Enhancing Mind: The Second Brain
 
 # [Pyautogui](https://github.com/Mohankrish08/Second-brain/tree/main/Pyautogui)
 #### 1. Boomer bot
-* This bot echos the messages in given number of times.
+* This bot echoes the messages in a given number of times.
