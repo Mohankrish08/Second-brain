@@ -16,10 +16,10 @@ Enhancing Mind: The Second Brain
 ![](https://github.com/Mohankrish08/Second-brain/blob/main/Images/Classification%20of%20retinopathy.webp)
 #### 5. Knee bend exercise
 * This project uses the OpenCV library to detect and track body movements and calculate the knee bending time for the people.
-![](
+![](https://github.com/Mohankrish08/Second-brain/blob/main/Images/Knee%20bend%20exercise.png)
 #### 6. Slub Analysis
 * This project calculates the distance between slubs, representing the difference between the excellent thread and uneven thread areas in garments.
-
+![](https://github.com/Mohankrish08/Second-brain/blob/main/Images/Slub%20analysis.png)
 
 
 
