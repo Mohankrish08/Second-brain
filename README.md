@@ -1,7 +1,7 @@
 # Second-brain
 Enhancing Mind: The Second Brain
 
-# [Computer vision] (https://github.com/Mohankrish08/Second-brain/tree/main/Computer%20vision)
+# [Computer vision](https://github.com/Mohankrish08/Second-brain/tree/main/Computer%20vision)
 #### 1. Sign languages prediction for days of a week
 * This project aims to classify sign language gestures for the days of the week using Recurrent Neural Networks (RNNs), This was trained by using Google’s Mediapipe Library to Predict the days of a week.
 #### 2. Emotion detection using Deepface
