@@ -11,5 +11,15 @@ Enhancing Mind: The Second Brain
 #### 4. Classification of Retinopathy
 * This project deals with retinopathy, by using the deep learning architecture such as CNN it predicts and classifies the levels of retinopathy.
 #### 5. Knee bend exercise
-* This project uses the OpenCV library to detect and track the body movements and calculate the knee bending time for the people.
+* This project uses the OpenCV library to detect and track body movements and calculate the knee bending time for the people.
+#### 6. Slub Analysis
+* This project calculates the distance between slubs, representing the difference between the excellent thread and uneven thread areas in garments.
 
+
+# [OpenAI Whishper]
+#### 1. Transcribing
+* This project transcribes the audio file into English sentences.
+
+# [Pyautogui]
+#### 1. Boomer bot
+* This bot echos the messages in given number of times.
