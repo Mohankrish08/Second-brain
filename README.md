@@ -10,8 +10,10 @@ Enhancing Mind: The Second Brain
 ![](https://github.com/Mohankrish08/Second-brain/blob/main/Images/Deep%20face.jpg)
 #### 3. Rep counter using Mediapipe
 * This project uses the OpenCV library to detect and track the movement of an object, such as a weight or a human limb, within a video stream.
+![](https://github.com/Mohankrish08/Second-brain/blob/main/Images/3d-sportsman-character-performing-dumbbell-chest-fly-png.webp)
 #### 4. Classification of Retinopathy
 * This project deals with retinopathy, by using the deep learning architecture such as CNN it predicts and classifies the levels of retinopathy.
+![](https://github.com/Mohankrish08/Second-brain/blob/main/Images/Classification%20of%20retinopathy.webp)
 #### 5. Knee bend exercise
 * This project uses the OpenCV library to detect and track body movements and calculate the knee bending time for the people.
 #### 6. Slub Analysis
