@@ -20,13 +20,11 @@ Enhancing Mind: The Second Brain
 #### 6. Slub Analysis
 * This project calculates the distance between slubs, representing the difference between the excellent thread and uneven thread areas in garments.
 ![](/Images/Slub%20analysis.png)
-
-
-
 # [OpenAI Whishper](https://github.com/Mohankrish08/Second-brain/tree/main/OpenAI%20Whisper)
 #### 1. Transcribing
 * This project transcribes the audio file into English sentences.
-
+![](https://github.com/Mohankrish08/Second-brain/blob/main/Images/Audio%20to%20text.jpg)
 # [Pyautogui](https://github.com/Mohankrish08/Second-brain/tree/main/Pyautogui)
 #### 1. Boomer bot
-* This bot echoes the messages in a given number of times.
+* This bot echoes the messages a given number of times.
+![](https://github.com/Mohankrish08/Second-brain/blob/main/Images/Echo%20messages.jpg)
